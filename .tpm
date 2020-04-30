@@ -1,0 +1,7 @@
+{
+    "tag":["rust","cli","log"],
+    "kind":"single",
+    "template":{
+        "prefix":"_t_"
+    }
+}
